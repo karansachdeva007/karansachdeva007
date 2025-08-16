@@ -65,4 +65,4 @@ Currently exploring **AI-driven applications, Machine Learning (ML), Deep Learni
 
 ---
 
-⭐️ From [KaranSachdeva](https://github.com/KaranSachdeva)
+⭐️ From [KaranSachdeva](https://github.com/karansachdeva007)
