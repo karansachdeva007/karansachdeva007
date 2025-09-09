@@ -1,51 +1,59 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
 
-# 👋 Hi, I'm Karan Sachdeva  
+<h1 align="center">👋 Hi, I'm Karan Sachdeva</h1>
 
-🚀 **Full-Stack Developer | Open Source Contributor | Tech Enthusiast**  
-
-I’m passionate about building scalable web apps, solving real-world problems, and contributing to open-source projects.  
-Currently exploring **AI-driven applications, Machine Learning (ML), Deep Learning (DL), and Generative AI**.  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;AI+%26+ML+Enthusiast;Tech+Explorer+%7C+Innovator" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🔥 About Me
-- 💻 I love working with **JavaScript, TypeScript, React, Next.js, Node.js**
-- 🤖 Interested in **Artificial Intelligence, Data Science, and Deep Learning**
-- 📊 Exploring **data analysis, visualization, and predictive modeling**
-- 🌱 Currently learning **DevOps, Machine Learning, and Deep Learning frameworks**
-- 🤝 Open to collaborate on **open-source projects** and exciting startups
-- 🎯 Goal for 2025: Contribute to **10+ major open-source projects**
+## 🔥 About Me  
+<p align="center">
+💻 Skilled in <b>JavaScript, TypeScript, React, Next.js, Node.js</b> <br>
+🤖 Interested in <b>Artificial Intelligence, Data Science, Deep Learning</b> <br>
+📊 Exploring <b>Data Analysis, Visualization, Predictive Modeling</b> <br>
+🌱 Currently learning <b>DevOps, ML & DL frameworks</b> <br>
+🤝 Open to collaborate on <b>Open-Source Projects & Startups</b> <br>
+🎯 <b>2025 Goal:</b> Contribute to <b>10+ major open-source projects</b>  
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)  
+<p align="center">
+  
+<b>Languages & Frameworks</b><br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
 
-**AI & ML Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)  
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)  
+<br><br>
+<b>AI & ML Tools</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy" />
 
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+<br><br>
+<b>Databases & Tools</b><br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+
+</p>
 
 ---
 
@@ -56,13 +64,22 @@ Currently exploring **AI-driven applications, Machine Learning (ML), Deep Learni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansachdeva007&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/karansachdeva007"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+  <a href="www.linkedin.com/in/karan-sachdeva-kss007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sachdevakaran77777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
----
+<p align="center">
+⭐ Feel free to check out my repositories and give them a star if you like! ⭐  
+</p>
 
-
-
----
-
-⭐️ From [KaranSachdeva](https://github.com/karansachdeva007)
+<p align="center">  
+⭐️ From <a href="https://github.com/karansachdeva007">KaranSachdeva</a>  
+</p>
