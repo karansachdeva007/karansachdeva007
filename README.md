@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g" width="600" height="300" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Karan Sachdeva</h1>
@@ -19,7 +19,6 @@
 📊 Exploring <b>Data Analysis, Visualization, Predictive Modeling</b> <br>
 🌱 Currently learning <b>DevOps, ML & DL frameworks</b> <br>
 🤝 Open to collaborate on <b>Open-Source Projects & Startups</b> <br>
-🎯 <b>2025 Goal:</b> Contribute to <b>10+ major open-source projects</b>  
 </p>
 
 ---
@@ -59,10 +58,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansachdeva007&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansachdeva007&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karansachdeva007&show_icons=true&theme=radical)
 
 ---
 
@@ -75,6 +71,7 @@
 </p>
 
 ---
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
 ⭐ Feel free to check out my repositories and give them a star if you like! ⭐  
